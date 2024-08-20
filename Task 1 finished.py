@@ -14,8 +14,8 @@ def read_email_files(directory):
     return emails
 
 # Directory paths
-normal_emails_directory = 'C:/Users/andry/Desktop/492/Assignment 3/normal'
-spam_emails_directory = 'C:/Users/andry/Desktop/492/Assignment 3/spam'
+normal_emails_directory = 'C:/Users/andry/Desktop/Naive-Bayes/normal'
+spam_emails_directory = 'C:/Users/andry/Desktop/Naive-Bayes/spam'
 
 # Read the content of the normal and spam emails
 normal_emails_content = read_email_files(normal_emails_directory)
