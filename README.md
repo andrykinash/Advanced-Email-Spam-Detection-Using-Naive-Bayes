@@ -32,6 +32,9 @@ The project is divided into four main tasks, each building on the previous one t
 - **Comprehensive Evaluation**: The project includes detailed performance metrics, such as precision, recall, F1 score, and error analysis.
 - **No External Dependencies**: The project relies solely on the normal and spam email directories provided, making it easy to set up and use.
 
+<img width="863" alt="Data Visualization - Figure 1" src="https://github.com/user-attachments/assets/dd5cf3e3-faa6-47fb-aa18-5d4f51de41e6">
+<img width="740" alt="Data Visualization - Figure 2" src="https://github.com/user-attachments/assets/05565219-3635-43d2-85ce-1918873ae849">
+
 ## Getting Started
 ### Prerequisites
 - Python 3.x
