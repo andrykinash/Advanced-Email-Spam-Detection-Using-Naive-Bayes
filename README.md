@@ -34,13 +34,3 @@ The project is divided into four main tasks, each building on the previous one t
 
 <img width="863" alt="Data Visualization - Figure 1" src="https://github.com/user-attachments/assets/dd5cf3e3-faa6-47fb-aa18-5d4f51de41e6">
 <img width="740" alt="Data Visualization - Figure 2" src="https://github.com/user-attachments/assets/05565219-3635-43d2-85ce-1918873ae849">
-
-## Getting Started
-### Prerequisites
-- Python 3.x
-- Basic understanding of Python libraries such as `os`, `random`, `re`, `collections`
-
-### Installation
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
